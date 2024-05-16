@@ -1,4 +1,4 @@
-# ft_printf Project
+# Project
 
 The ft_printf project is a core component of the 42 school curriculum, aimed at reinforcing students' understanding of variadic functions, parsing, and string formatting in C programming. In this project, students are tasked with implementing their own version of the standard printf function, capable of formatting and printing data to the standard output according to a given format string.
 
